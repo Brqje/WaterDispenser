@@ -1,0 +1,11 @@
+## Interface: 20501
+## Title: Water Dispenser
+## Notes: Automatic fill trade-window 
+## Version: 1.11 BCC
+## Author: GPI / Erytheia-Razorfen (Baroque BCC edit)
+## DefaultState: enabled
+## SavedVariablesPerCharacter: WaterDispenserDB
+LibGPIToolBox.lua
+LibGPIOptions.lua
+Localization.lua
+WaterDispenser.lua
